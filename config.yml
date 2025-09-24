@@ -29,7 +29,7 @@ db:
   user: wikijs_db_test
   pass: 5tr6Gf827L7UB9XxSE5Xp1s4yMY4RvMY
   db: wikijs_db_test
-  ssl: false
+  ssl: true
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
   # -> Uncomment lines you need below and set `auto` to false
