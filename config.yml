@@ -24,11 +24,11 @@ db:
   type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
-  host: dpg-d396elc9c44c73amfqgg-a
+  host: dpg-d39kndodl3ps73aamsj0-a
   port: 5432
-  user: wikijs_db_test
-  pass: 5tr6Gf827L7UB9XxSE5Xp1s4yMY4RvMY
-  db: wikijs_db_test
+  user: wiki_db_test
+  pass: 4Kr58BUf0AEH29iYQXfP9SJxDoaOAL3q
+  db: wiki_db_test
   ssl: true
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
